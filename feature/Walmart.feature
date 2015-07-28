@@ -22,4 +22,4 @@ Funcionalidade: busca site Walmart
 	E a tela de garantia estendida for apresentada
 	E eu clicar no botão continuar
 	E eu clicar no botão carrinho
-  Então o produto deverá estar adicionado ao carrinho com sucesso
+	Então o produto deverá estar adicionado ao carrinho com sucesso
